@@ -12,7 +12,7 @@ import (
 // 	return c
 // }
 
-func CalculateTest(t *testing.T) {
+func CalculateTest(t *testing.B) {
 	expectedoutput := 3
 	a := 1
 	b := 2
